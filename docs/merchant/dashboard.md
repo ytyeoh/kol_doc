@@ -10,3 +10,8 @@ has_children: true
 -  redeem voucher
 -  check on expire date.
 - show  expire with remain  how many days.
+
+
+## Shipping
+- add button to trigger message in telegram for product without shipping awb.
+- can direct get awb link to print and track.

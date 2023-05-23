@@ -10,6 +10,10 @@ permalink: /docs/customer
 
 ## membership expire
 - only can purchase renew expire date item
+- date based on first time renew date add on.
+- multi quantity purchase will be use as multiple year according to quantity.
+- cannot buy / renew for other member.
+
 
 
 
